@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Empty project with ReactJS and TypeScript
 
-Empty project with my most used people settings.
+Empty project with my most used settings.
 
 ## In this project are installed and configured:
 
